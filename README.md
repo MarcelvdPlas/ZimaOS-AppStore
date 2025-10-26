@@ -20,8 +20,6 @@ Simply copy the provided source link and add it to your CasaOS settings to acces
 
 - [Awesome Store list](https://awesome.casaos.io/content/3rd-party-app-stores/list.html)
 
-## Contributors
-
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
